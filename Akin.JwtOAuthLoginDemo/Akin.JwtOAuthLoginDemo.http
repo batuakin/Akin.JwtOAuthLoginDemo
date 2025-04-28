@@ -1,0 +1,6 @@
+@Akin.JwtOAuthLoginDemo_HostAddress = http://localhost:5207
+
+GET {{Akin.JwtOAuthLoginDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
